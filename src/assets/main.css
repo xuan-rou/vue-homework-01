@@ -1,0 +1,17 @@
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+table,
+th,
+td {
+  padding: 0;
+}
+
+td {
+  min-width: 2rem;
+  padding: 0.25rem 1.25rem;
+}
