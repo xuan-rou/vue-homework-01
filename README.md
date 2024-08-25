@@ -1,7 +1,8 @@
 # 第一週作業-餐點管理系統
 
 hexschool 2024 Vue 前端新手營每週作業練習
-連結：https://xuan-rou.github.io/vue-homework-01/
+
+Page Demo：https://xuan-rou.github.io/vue-homework-01/
 
 ## 作業內容
 
